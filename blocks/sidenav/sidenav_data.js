@@ -1,0 +1,1 @@
+export default [{"displayName":"Meet the Elevate Pro 160 standing desk","url":"contents/topics/product-overview"},{"displayName":"Assemble and commission the Elevate Pro 160 desk","url":"contents/topics/assembly-instructions"},{"displayName":"Specifications, maintenance, and troubleshooting","url":"contents/topics/maintenance-reference"}]
